@@ -1,0 +1,11 @@
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.exe
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.deps.json
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.runtimeconfig.json
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.runtimeconfig.dev.json
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.dll
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\bin\Debug\netcoreapp3.1\LaboratotyWork6.pdb
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\obj\Debug\netcoreapp3.1\LaboratotyWork6.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\obj\Debug\netcoreapp3.1\LaboratotyWork6.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\obj\Debug\netcoreapp3.1\LaboratotyWork6.AssemblyInfo.cs
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\obj\Debug\netcoreapp3.1\LaboratotyWork6.dll
+C:\Users\misha\source\repos\Lab6\LaboratotyWork6\LaboratotyWork6\obj\Debug\netcoreapp3.1\LaboratotyWork6.pdb
